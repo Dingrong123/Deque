@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1541656777 source:d:\codeblocks\deque3\code.cpp
+	"class-integer.hpp"
+	"class-matrix.hpp"
+	"class-bint.hpp"
+	<iostream>
+	<vector>
+	<deque>
+	"deque.hpp"
+
+1540133960 d:\codeblocks\deque3\class-matrix.hpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdexcept>
+
+1540133960 d:\codeblocks\deque3\class-bint.hpp
+	<string>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1541513168 d:\codeblocks\deque3\class-integer.hpp
+	<iostream>
+
+1544871851 d:\codeblocks\deque3\deque.hpp
+	"exceptions.hpp"
+	<malloc.h>
+	<cstddef>
+
+1542447133 d:\codeblocks\deque3\exceptions.hpp
+	<cstddef>
+	<cstring>
+	<string>
+
+1541504943 source:d:\codeblocks\deque3\code2.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<deque>
+	<random>
+	"class-integer.hpp"
+	"class-matrix.hpp"
+	"class-bint.hpp"
+	"deque.hpp"
+
+1541703318 source:d:\codeblocks\deque3\code3.cpp
+	"deque.hpp"
+	<ctime>
+	<iostream>
+	<deque>
+	<random>
+	<string>
+	<vector>
+	<ctime>
+
+1540133960 source:d:\codeblocks\deque3\code4.cpp
+	"deque.hpp"
+	<ctime>
+	<iostream>
+	<deque>
+	<random>
+	<string>
+	<vector>
+	<ctime>
+
+1541576070 source:d:\codeblocks\deque3\code5.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"deque.hpp"
+	"exceptions.hpp"
+
+1541735609 source:d:\codeblocks\deque3\code6.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"deque.hpp"
+	"exceptions.hpp"
+
+1541583616 source:d:\codeblocks\deque3\code33.cpp
+	"deque.hpp"
+	<ctime>
+	<iostream>
+	<deque>
+	<random>
+	<string>
+	<vector>
+	<ctime>
+
+1541650873 source:d:\codeblocks\deque3\code3.mem.cpp
+	"deque.hpp"
+	<ctime>
+	<iostream>
+	<deque>
+	<random>
+	<string>
+	<vector>
+	<ctime>
+
